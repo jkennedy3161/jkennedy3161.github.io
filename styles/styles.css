@@ -25,3 +25,12 @@ a, ul, li {
   padding-top: 100px;
   background-color: #AAA;
 }
+
+.page {
+  background-color: #0AA;
+  padding: 12px;
+}
+
+.format {
+  padding: 10px 14px;
+}
