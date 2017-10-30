@@ -17,11 +17,10 @@ a, ul, li {
   margin-top: 60px;
 }
 
-#about, #portfolio, #contact {
+#about,#portfolio,#contact {
   background: transparent;
   border: none;
 }
-
 #about:hover,#portfolio:hover,#contact:hover {
   background-color: #FFF;
 }
