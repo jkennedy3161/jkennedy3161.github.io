@@ -12,6 +12,11 @@ a, ul, li {
   z-index: 1;
 }
 
+#main {
+  height: 100%;
+  margin-top: 60px;
+}
+
 #about, #portfolio, #contact {
   background: transparent;
   border: none;
@@ -55,5 +60,10 @@ a, ul, li {
 }
 
 .summary {
-  align: right;
+  text-align: right;
+}
+
+.invitation {
+  font-size: 18px;
+  font-family: Monospace, Serif;
 }
