@@ -1,0 +1,27 @@
+a, ul, li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.navbar {
+  top: 0;
+  padding: 14px 16px;
+  background-color: #0AA;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+#about, #portfolio, #contact {
+  background: transparent;
+  border: none;
+}
+
+#about:hover,#portfolio:hover,#contact:hover {
+  background-color: #FFF;
+}
+
+#about-page,#portfolio-page,#contact-page {
+  padding-top: 100px;
+  background-color: #AAA;
+}
